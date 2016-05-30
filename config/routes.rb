@@ -1,4 +1,15 @@
 Rails.application.routes.draw do
+  get 'users/join'
+
+  get 'users/login'
+
+  get 'users/logout'
+
+  get 'static_pages/home'
+
+  get 'static_pages/help'
+
+  get 'users/userman'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
