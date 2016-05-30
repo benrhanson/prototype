@@ -2,14 +2,14 @@
 
 one:
   message: MyText
-  email: MyString
-  created_at: 
-  updated_at: 
-  teamid: 1
+  sender: 1
+  reciever_name: MyString
+  reciever_email: MyString
+  security_code: MyString
 
 two:
   message: MyText
-  email: MyString
-  created_at: 
-  updated_at: 
-  teamid: 1
+  sender: 1
+  reciever_name: MyString
+  reciever_email: MyString
+  security_code: MyString
