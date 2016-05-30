@@ -2,6 +2,22 @@
 
 one:
   name: MyString
+  email: MyString
+  password: MyString
+  business_name: MyString
+  business_category: MyString
+  zipcode: 1
+  state: MyString
+  country: MyString
+  address_street: MyString
 
 two:
   name: MyString
+  email: MyString
+  password: MyString
+  business_name: MyString
+  business_category: MyString
+  zipcode: 1
+  state: MyString
+  country: MyString
+  address_street: MyString
